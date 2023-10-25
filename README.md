@@ -1,12 +1,15 @@
 # Pizza
 
-![WhatsApp Image 2023-10-17 à 13 56 58_68e624b9](https://github.com/safiyadaoudi01/Pizza/assets/120654774/a0f4e1a0-bfdf-4515-88d5-85f5f6ad4537)
+![pizza1](https://github.com/safiyadaoudi01/Pizza/assets/120654774/f88ec535-33dc-468b-8751-105b0b595b54)
 
 
-![WhatsApp Image 2023-10-17 à 13 57 00_4b50288a](https://github.com/safiyadaoudi01/Pizza/assets/120654774/f61ce926-f920-4588-beba-86e457f0673a)
+
+![pizza2](https://github.com/safiyadaoudi01/Pizza/assets/120654774/fd99580f-8e73-4733-807e-970244b0dcf8)
 
 
-![WhatsApp Image 2023-10-17 à 13 57 00_76e29db6](https://github.com/safiyadaoudi01/Pizza/assets/120654774/0e920b89-086f-4cf1-932e-fb65313dc941)
+
+![pizza3](https://github.com/safiyadaoudi01/Pizza/assets/120654774/401108d7-c43b-417b-8176-89971b9eba1b)
 
 
-![WhatsApp Image 2023-10-17 à 13 57 01_8e74cfa4](https://github.com/safiyadaoudi01/Pizza/assets/120654774/b566b8d1-11cf-406c-827a-c173202f4d2d)
+
+![pizza4](https://github.com/safiyadaoudi01/Pizza/assets/120654774/b676514e-518f-4a50-a91f-3e8f3b26332a)
